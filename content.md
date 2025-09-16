@@ -158,6 +158,7 @@
 * BI and dashboarding (Power BI/Tableau/Looker)
 * ML/GenAI, MLOps, computer vision, NLP
 * CI/CD, DevOps, platform engineering
+* Backend Development, Frontend Development, SDE, C#,C++, Go, Rust, PHP, DevOps, Kafka, GitHub
 
 ---
 
