@@ -256,6 +256,11 @@
 * If JD is primarily about investment research, modeling, diligence, or deal work → Research and Investment Services.
 * If JD is primarily about CRM/list building/AP-AR/shared services/design/desk research → Process Support Services.
 
+### Avoid Matching or Responding in the following cases:
+* If the 1st question does not contain a JD.
+* Irrelevant questions (example : related to books, movies, people etc)
+* Irrelevant or out of scope domains
+
 ---
 
 ## Sources
