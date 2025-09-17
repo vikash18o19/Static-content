@@ -1,7 +1,7 @@
-# TresVista Services Knowledge Base
+# Company Services Knowledge Base
 
-**Vendor:** TresVista
-**Purpose:** Knowledge base to help a Copilot agent match job descriptions (JDs) to TresVista service lines and draft tailored outreach.
+**Vendor:** Company
+**Purpose:** Knowledge base to help a Copilot agent match job descriptions (JDs) to Company service lines and draft tailored outreach.
 
 ---
 
@@ -264,9 +264,9 @@
 ---
 
 ## Sources
-* [About Us](https://www.tresvista.com/about-us/) (Retrieved: 2025-09-15)
-* [Research and Investment Services](https://www.tresvista.com/research-and-investment-services/) (Retrieved: 2025-09-15)
-* [CFO Office Services](https://www.tresvista.com/cfo-office-services/) (Retrieved: 2025-09-15)
-* [Process Support Services](https://www.tresvista.com/process-support-service/) (Retrieved: 2025-09-15)
-* [Solutions overview (Secondaries – Connect Today)](https://www.tresvista.com/secondaries-connect-today/) (Retrieved: 2025-09-15)
-* [Investment Banking Support – Offerings](https://www.tresvista.com/investment-banking-support/) (Retrieved: 2025-09-15)
+* [About Us](https://www.Company.com/about-us/) (Retrieved: 2025-09-15)
+* [Research and Investment Services](https://www.Company.com/research-and-investment-services/) (Retrieved: 2025-09-15)
+* [CFO Office Services](https://www.Company.com/cfo-office-services/) (Retrieved: 2025-09-15)
+* [Process Support Services](https://www.Company.com/process-support-service/) (Retrieved: 2025-09-15)
+* [Solutions overview (Secondaries – Connect Today)](https://www.Company.com/secondaries-connect-today/) (Retrieved: 2025-09-15)
+* [Investment Banking Support – Offerings](https://www.Company.com/investment-banking-support/) (Retrieved: 2025-09-15)
